@@ -1,23 +1,6 @@
-## Hi there 👋
-
-<!--
-**adrwis/adrwis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # #powerBI #analytics #data #finance #IT #ProjectManagament #PowerQuery #SQL
 
-Dear Visitor,
+## Dear Visitor 👋
 
 Welcome to my GitHub! Here, I share my personal projects to showcase my ability to create reports using Power BI, a tool that fascinates me. My name is Adriana, and I am a dynamic Data Analyst and BI Developer with over five years of hands-on experience in transforming raw data into actionable insights. I excel in using Power BI and Power Query to create interactive reports that drive strategic decision-making.
 
@@ -31,10 +14,10 @@ I am a problem solver with a passion for innovation and process improvement. My 
 
 If you’re looking for a dedicated and skilled Data Analyst who can elevate your data strategy, I am the professional you need.
 
-To see my reports, please download the Power BI file and open it in your Power BI desktop.
+To see my reports, please download the Power BI file and open it in your Power BI desktop 🔭.
 
 Best regards,
 Ada
 
-_e-mail: adriana.wisniewska@gmail.com
-_mobile: +48 728 884 506_
+📫 e-mail: adriana.wisniewska@gmail.com
+💬 mobile: +48 728 884 506_
