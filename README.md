@@ -15,5 +15,5 @@ To see my reports, please download the Power BI file and open it in your Power B
 Best regards,
 Ada
 
-📫 e-mail: adriana.wisniewska@gmail.com
-💬 mobile: +48 728 884 506_
+📫 e-mail: gusciora.ada@gmail.com
+💬 mobile: +48 728 884 506
